@@ -241,5 +241,3 @@ platform:
                 - 10.0.0.2
 pullSecret: '$(< ~/pull-secret.txt)'
 sshKey: '$(< ~/.ssh/id_rsa.pub)'
-EOF
-[kni@provisioner ~]$
